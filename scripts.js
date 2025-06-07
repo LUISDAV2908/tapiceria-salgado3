@@ -10,3 +10,7 @@ function IrANosotros(){
 function IRASERVICIOS(){
 	window.open("Tapiceria-Salgado.html", "_blank")
 }
+
+function IRAINICIO(){
+	window.open("tapiceria-salgado-inicio.html", "_blank")
+}
