@@ -12,5 +12,5 @@ function IRASERVICIOS(){
 }
 
 function IRAINICIO(){
-	window.open("tapiceria-salgado-inicio.html", "_blank")
+	window.open("index.html", "_blank")
 }
