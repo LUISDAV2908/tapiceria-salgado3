@@ -90,8 +90,8 @@ img {
 }
 
 .cotizacion-img {
-    width: 40%; /* Tamaño más pequeño */
-    height: auto; /* Mantiene proporción */
+    width: 10%; /* Tamaño más pequeño */
+    height: 30px; /* Mantiene proporción */
     margin-right: 5px; /* Espaciado entre imagen y texto */
     vertical-align: middle;
 }
