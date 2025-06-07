@@ -88,3 +88,10 @@ img {
 .cotizacion {
     background-color: #FFD700;
 }
+
+.cotizacion-img {
+    width: 20px; /* Tamaño más pequeño */
+    height: auto; /* Mantiene proporción */
+    margin-right: 5px; /* Espaciado entre imagen y texto */
+    vertical-align: middle;
+}
