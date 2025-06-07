@@ -4,7 +4,7 @@ function abrirWhatsApp(){
 }
 
 function IrANosotros(){
-	window.open("QUIENES-SOMOS.HTML", "_blank");
+	window.open("QUIENES_SOMOS.html", "_blank");
 }
 
 function IRASERVICIOS(){
